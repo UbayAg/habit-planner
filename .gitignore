@@ -1,0 +1,23 @@
+# Dependencias
+node_modules/
+
+# Compilados
+dist/
+build/
+
+# Configuración local
+.vscode/
+.DS_Store
+
+# Logs
+*.log
+
+# Tests
+coverage/
+
+# pnpm
+.pnpm-store/
+
+# Variables de entorno
+.env
+.env.local
